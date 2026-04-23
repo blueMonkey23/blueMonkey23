@@ -5,7 +5,7 @@
 </p>
 
 ### Sinh viên CNTT tại Đại học Mở Hà Nội (FITHOU)
-Mình là một nhà phát triển Full-stack với niềm đam mê xây dựng các giải pháp đô thị thông minh và hệ thống quản lý hiệu quả.
+Mình là một nhà phát triển Full-stack
 
 ## 🛠 Kỹ năng chuyên môn
 | Lĩnh vực | Công nghệ / Công cụ |
