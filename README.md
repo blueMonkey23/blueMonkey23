@@ -5,7 +5,7 @@
 </p>
 
 ### IT Student at Hanoi Open University (FITHOU)
-I am a Full-stack Developer passionate about building Smart City solutions and high-performance management systems.
+I am a Full-stack Developer.
 
 ## 🛠 Technical Skills
 | Field | Technologies / Tools |
